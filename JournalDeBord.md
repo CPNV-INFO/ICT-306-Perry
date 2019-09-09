@@ -1,2 +1,2 @@
 # Journal de Bord
-09.09.2019  Gatien Jayme, Nous avons choisi Abante cart (https://bitnami.com/stack/abantecart)
+09.09.2019  Christopher Pardo, Nous avons choisi  OpenCart (https://bitnami.com/stack/opencart)
